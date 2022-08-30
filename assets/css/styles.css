@@ -7,7 +7,7 @@
 
 :root {
     --primary-color: #cf0f0f;
-    --primary-color-constrat: #ffffff;
+    --primary-color-contrast: #ffffff;
     --field-background-color: #000;
 }
 
@@ -83,10 +83,10 @@ button {
     font-size: 1.25rem;
     text-transform: uppercase;
     cursor: pointer;
-    transition: background 1s;
+    transition: background 0.2s;
 }
 
-/*** header styles ***/
+/*** HEADER STYLES ***/
 
 header {
     background-color: var(header-background-color);
